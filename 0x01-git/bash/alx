@@ -1,4 +1,2 @@
-main
-School is so cool! 
-School is so cool!
-master
+#!/bin/bash
+echo "ALX"
